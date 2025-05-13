@@ -9,7 +9,7 @@ In an large scale project, this structure is broken down into several components
 * Data Analyst -> Exploratory Data Analysis
 * Data Scientist -> Data Modeling, Model evaluation
 
-Often, each area of expertise will work in tamdem to ensure a successful project. For example, data analyst may share their finding from the dataset and the data engineer sets out to engineer new features to augment the dataset with more predicitive power. With that being said, responsibilties may overlap in smaller scale projects such as an data analyst managing the data pipeline and deriving insights.
+Often, each area of expertise will work in tandem to ensure a successful project. For example, data analyst may share their finding from the dataset and the data engineer sets out to engineer new features to augment the dataset with more predicitive power. With that being said, responsibilties may overlap in smaller scale projects such as an data analyst managing the data pipeline and deriving insights.
 
 ## Exploratory Data Analysis
 Exploratory Data Analysis (EDA) is considered an pivotal aspect of the data mining project, it unraveals valuable insights hidden within the data. These insights can help empower decision makers to make well-informed decisions and develop better performing predictive models
